@@ -10,7 +10,7 @@ from chatgpt_helper import chagptify_text
 # Load environment variables from .env file
 load_dotenv()
 
-# Initializes your app with your bot token and socket mode handler
+# Initializes your app with your bot token
 app = App(
     token=os.environ.get("SLACK_BOT_TOKEN"),
     signing_secret=os.environ.get("SLACK_SIGNING_SECRET")
