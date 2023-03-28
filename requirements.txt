@@ -1,0 +1,7 @@
+slack_bolt
+python-dotenv
+pika==1.1.0
+requests
+fastapi==0.75.0
+Uvicorn[standard]
+openai
