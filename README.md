@@ -6,7 +6,7 @@
    Bring ChatGPT to your Slack conversations⚡🚀
 </p>
 
-## SlackGPT ?
+## What is SlackGPT ?
 Slack is where the work happens – it is where the content team deliberates on potential articles or Youtube video concepts, while the development team chooses the technology and architecture to adopt.
 
 Now, picture ChatGPT joining these daily discussions that occur on Slack - this is exactly what SlackGPT does for you :)
